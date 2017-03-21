@@ -459,3 +459,31 @@ template {
 [hidden] {
   display: none;
 }
+html{
+  background: #08D900;
+}
+.cajaverde{
+  width: 60%;
+  margin: 5em auto;
+  border-radius: 10px;
+  background-color:#fff;
+}
+header h2{
+  text-align: center;
+  padding: 1em;
+  color: #707070;
+}
+.boton{
+  background: #FF0000;
+  padding: 5px 15px;
+  border-radius: 10px;
+  border:0;
+  color: #fff;
+  margin: 1em;
+}
+footer{
+  text-align: right;
+}
+header,footer{
+  background-color: #DDD7D7;
+}
